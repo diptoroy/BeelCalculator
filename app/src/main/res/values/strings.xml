@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeetVat</string>
+    <string name ="entervalue">Enter Your Amount</string>
+    <string name ="vat">VAT</string>
+    <string name ="ait">AIT</string>
+    <string name ="resultButton">Calculate</string>
+    <string name ="vatresult">Vat : </string>
+    <string name ="afterVat">After VAT : </string>
+    <string name ="aitresult">AIT : </string>
+    <string name ="afterait">After AIT : </string>
+    <string name ="netincome">Net Income : </string>
+    <string name ="refresh">Refresh</string>
+
+</resources>
